@@ -11,8 +11,8 @@ JSON Formatter: [https://tableplus.com/json](https://tableplus.com/json)
 Screenshots:
 
 ![SQL-Formatter](https://github.com/TablePlus/Toolkit/blob/master/Resources/sql.png "SQL Formatter")
-![XML-Formatter](https://github.com/TablePlus/Toolkit/blob/master/Resources/sql.png "XML Formatter")
-![JSON-Formatter](https://github.com/TablePlus/Toolkit/blob/master/Resources/sql.png "JSON Formatter")
+![XML-Formatter](https://github.com/TablePlus/Toolkit/blob/master/Resources/xml.png "XML Formatter")
+![JSON-Formatter](https://github.com/TablePlus/Toolkit/blob/master/Resources/json.png "JSON Formatter")
  
 Report bugs/request new feature: [issues](https://github.com/TablePlus/Toolkit/issues).
 
